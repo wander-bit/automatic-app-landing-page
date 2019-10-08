@@ -40,23 +40,23 @@ features                                  :
     
   - title                                 : Fill Out Forms
     description                           : Customers, clients, and employees complete forms on your device.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : tablet-alt
 
   - title                                 : View Reponses
     description                           : View responses within the app, export responses to other apps, or have the app email you any time you get a new response.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : table
 
   - title                                 : Great For Trade Shows
     description                           : Use Form Builder Pro at your next trade show to gather valuable leads at your booth.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : business-time
 
   - title                                 : Great For Reception Desks
     description                           : Keep a record of visitors to your office or business by deploying a form on an iPad at the reception desk.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : conceirge-bell
   
   - title                                 : Great for Real Estate Agents
     description                           : Ditch pencil and paper at your next open house and use Form Builder Pro as your sign in sheet.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : sign
 
 
 
