@@ -50,11 +50,11 @@ features                                  :
     description                           : Use Form Builder Pro at your next trade show to gather valuable leads at your booth.
     fontawesome_icon_name                 : business-time
 
-  - title                                 : Great For Reception Desks
+  - title                                 : Use At Reception Desks
     description                           : Keep a record of visitors to your office or business by deploying a form on an iPad at the reception desk.
-    fontawesome_icon_name                 : conceirge-bell
+    fontawesome_icon_name                 : concierge-bell
   
-  - title                                 : Great for Real Estate Agents
+  - title                                 : A Tool for Real Estate Agents
     description                           : Ditch pencil and paper at your next open house and use Form Builder Pro as your sign in sheet.
     fontawesome_icon_name                 : sign
 
